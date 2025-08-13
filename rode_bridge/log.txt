@@ -1,0 +1,216 @@
+
+**********************************************************
+
+Log started: 17 Jun 2025 10:13:10am
+
+
+**********************************************************
+
+Log started: 17 Jun 2025 1:26:12pm
+
+Device -1199931322 ### Connected
+Device -535691104 ### Connected
+Device 1133291014 ### Connected
+Device 2124163812 ### Connected
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Send Mass Storage enable command
+Device 2124163812 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Found matching Mass Storage, mount completed
+Device 1133291014 ### Stop ignoring
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Found matching Mass Storage, mount completed
+Device 2124163812 ### Stop ignoring
+Device 1133291014 ### Start ignoring
+Device 1133291014 ### Stop ignoring
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Disconnected
+Device -1 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Connected
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 1133291014 ### Error mounting Mass Storage
+Device 1133291014 ### Stop ignoring
+Device 1133291014 ### Timeout waiting for Mass Storage disk mounting
+Device 1133291014 ### Stop ignoring
+
+**********************************************************
+
+Log started: 17 Jun 2025 1:30:21pm
+
+Device -1199931322 ### Connected
+Device -535691104 ### Connected
+Device 1133291014 ### Connected
+Device 2124163812 ### Connected
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Send Mass Storage enable command
+Device 2124163812 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Found matching Mass Storage, mount completed
+Device 2124163812 ### Stop ignoring
+Device 2124163812 ### Start ignoring
+Device 2124163812 ### Stop ignoring
+Device 2124163812 ### Enabling Mass Storage
+Device 2124163812 ### Disconnected
+Device -1 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Connected
+Device 2124163812 ### Enabling Mass Storage
+Device 1133291014 ### Disconnected
+Device 1133291014 ### Connected
+Device 2124163812 ### Send Mass Storage enable command
+Device 2124163812 ### Start ignoring
+Device 1133291014 ### Error mounting Mass Storage
+Device 1133291014 ### Stop ignoring
+Device 1133291014 ### Timeout waiting for Mass Storage disk mounting
+Device 1133291014 ### Stop ignoring
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+
+**********************************************************
+
+Log started: 4 Jul 2025 5:44:39pm
+
+Device -1199931322 ### Connected
+Device -535691104 ### Connected
+Device 1133291014 ### Connected
+Device 2124163812 ### Connected
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Send Mass Storage enable command
+Device 2124163812 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Found matching Mass Storage, mount completed
+Device 1133291014 ### Stop ignoring
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Found matching Mass Storage, mount completed
+Device 2124163812 ### Stop ignoring
+
+**********************************************************
+
+Log started: 4 Jul 2025 5:45:35pm
+
+Device -1199931322 ### Connected
+Device -535691104 ### Connected
+Device 1133291014 ### Connected
+Device 2124163812 ### Connected
+Device 1133291014 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Enabling Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 1133291014 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 1133291014 ### Send Mass Storage enable command
+Device 1133291014 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Waiting to enable Mass Storage
+Device 2124163812 ### Send Mass Storage enable command
+Device 2124163812 ### Start ignoring
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 1133291014 ### Found matching Mass Storage, mount completed
+Device 1133291014 ### Stop ignoring
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Restarted after mass storage enablement, waiting for OS to settle down
+Device 2124163812 ### Found matching Mass Storage, mount completed
+Device 2124163812 ### Stop ignoring
